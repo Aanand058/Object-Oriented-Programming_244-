@@ -1,35 +1,4 @@
-/* Citation and Sources...
-Final Project Milestone ms3
-Module: ms3
-Filename: Vehicle.cpp
-Version 1.0
-Author	John Doe
-Revision History
 
------------------------------------------------------------
-In this part I got lots of errors, one was about strcmp, which my professor helped me to fix and
-another in the  const char* getLicensePlate() const; where i was not putting const at first 
-and it was showing error return value type does not match the function type.
-For solving that I tried placing const at front and it worked. 
-
-I was not able to implent the Uppercase of Licence Plate, My friend Ka Ho Chow, email: kchow25@myseneca.ca
-helped me and provided the code for uppercase:
-I placed this code in the Utils module.
-  
-  
-    const char* toUpperCase(char* string) {
-        // ref: https://www.digitalocean.com/community/tutorials/string-uppercase-lowercase-c-plus-plus
-        for (int i = 0; i < strlen(string); i++) {
-            string[i] = toupper(string[i]);
-        }
-        return string;
-    }
-
-
------------------------------------------------------------
-Name: Aanand Aman			Student Id: 166125211              Date: 2022/11/21
-Email: aaman8@myseneca.ca
------------------------------------------------------------*/
 
 
 #ifndef SDDS_VEHICLE_H__

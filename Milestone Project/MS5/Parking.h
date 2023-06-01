@@ -1,21 +1,4 @@
-/* Citation and Sources...
-Final Project Milestone ms5
-Module: ms5
-Filename: Parking.h
-Version 1.0
-Author	John Doe
-Revision History
 
------------------------------------------------------------
-During this milestone I was facing little problem with construtor initialization of Menu as
-I was using "(" ")" as bracket in the parking.h file and It was showing error. I used "{" "}" after
-searching it in the goolge and found this source:
-https://www.learncpp.com/cpp-tutorial/constructor-member-initializer-lists/
-This helped to me solve the constructor issue.
------------------------------------------------------------
-Name: Aanand Aman			Student Id: 166125211              Date: 2022/11/13
-Email: aaman8@myseneca.ca
------------------------------------------------------------*/
 
 #ifndef SDDS_PARKING_H__
 #define SDDS_PARKING_H__

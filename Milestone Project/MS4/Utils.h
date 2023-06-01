@@ -1,17 +1,4 @@
-/* Citation and Sources...
-Final Project Milestone ms3
-Module: ms3
-Filename: Utils.h
-Version 1.0
-Author	John Doe
-Revision History
 
------------------------------------------------------------
-The Utils is copied from the previous workshops provided by the professor.
------------------------------------------------------------
-Name: Aanand Aman			Student Id: 166125211              Date: 2022/11/18
-Email: aaman8@myseneca.ca
------------------------------------------------------------*/
 #ifndef SDDS_UTILS_H__
 #define SDDS_UTILS_H__
 

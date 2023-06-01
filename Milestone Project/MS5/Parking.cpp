@@ -1,22 +1,4 @@
-/*Filename: Parking.cpp
-Version 1.0
-Author	John Doe
-Revision History
 
----------------------------------------------------------- -
-During this milestone I was facing little problem with construtor initialization of Menu as
-I was using "(" ")" as bracket in the parking.h file and It was showing error.I used "{" "}" after
-searching it in the goolge and found this source:
-https://www.learncpp.com/cpp-tutorial/constructor-member-initializer-lists/
-This helped to me solve the constructor issue.
-I also faced error while closing and exiting the parking, to solve that issue I use debugger and different conditional
-methods to get it correct
-
-//Rest of the part is mentioned in the reflect.txt
----------------------------------------------------------- -
-Name : Aanand Aman			Student Id : 166125211              Date : 2022 / 12 / 08
-Email : aaman8@myseneca.ca
----------------------------------------------------------- - */
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>

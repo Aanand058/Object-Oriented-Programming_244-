@@ -1,20 +1,4 @@
-/* Citation and Sources...
-Final Project Milestone ms1
-Module: ms1
-Filename: Menu.cpp
-Version 1.0
-Author	John Doe
-Revision History
 
------------------------------------------------------------
-During this project, I was facing problem in the indendation part, so i took help from one of my friend
-who is not a student of Seneca college. He helped me to implement the indentation output correctly in the display function to
-make it work properly. The name of my friend is Ashutosh Jha, email: jhaashutosh.aj@gmail.com
------------------------------------------------------------
-Name: Aanand Aman			Student Id: 166125211              Date: 2022/11/8
-Email: aaman8@myseneca.ca
--------------- ---------------------------------------------
-*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
