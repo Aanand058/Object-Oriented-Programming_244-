@@ -1,18 +1,4 @@
-/* Citation and Sources...
-Final Project Milestone ms1
-Module: ms1
-Filename: Menu.h
-Version 1.0
-Author	John Doe
-Revision History
 
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my project milestones.
------------------------------------------------------------
-Name: Aanand Aman			Student Id: 166125211              Date: 2022/11/07
-Email: aaman8@myseneca.ca
------------------------------------------------------------*/
 
 #ifndef SDDS_MENU_H__
 #define SDDS_MENU_H__
