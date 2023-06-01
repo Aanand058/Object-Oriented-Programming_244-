@@ -1,18 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 2 p1: tester program
-//
-// File	main.cpp
-// Version 1.0
-// Date	2022/09/17
-// Author	Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name: Aanand Aman          Date: 23 Sept. 2022           Reason
-//I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>

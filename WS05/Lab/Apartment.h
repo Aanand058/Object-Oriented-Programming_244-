@@ -1,26 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 5 p1: tester program
-//
-// File  Apartment.h
-// Version 1.0
-// Date  summer of 2022
-// Author  Kalimullah Jawad
-//
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-// Fardad          2022/10/06      peer review
---------------------------------------------------------------
-Student Name: Aanand Aman
-Student ID: 166125211
-Email: aaman8@myseneca.ca
 
-
-   I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 
 
 #pragma once

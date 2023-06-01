@@ -1,21 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 2 p2: tester program
-//
-// File  Population.cpp
-// Version 1.0
-// Date  2022/09/17
-// Author   Fardad Soleimanloo
-// Description
-// This file is incomplete and to be completed by students
-// Revision History
-// -----------------------------------------------------------
-// Name  Aanand Aman           Date 25 Sept. 2022           Reason
-//
 
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 
 
 #define _CRT_SECURE_NO_WARNINGS

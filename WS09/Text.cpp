@@ -1,16 +1,4 @@
-/* ------------------------------------------------------
-Workshop 9 part 1
 
-Filename: Text.cpp
-Version 1
------------------------------------------------------------
-Name: Aanand Aman
-Student ID: 166125211
-EMail: aaman8@myseneca.ca
-
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-
------------------------------------------------------------*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>

@@ -1,13 +1,4 @@
-/*
-*****************************************************************************
-                              Workshop - 1 (DIY)
-Full Name  : Aanand Aman
-Student ID: 166125211
-Email      : aaman8@myseneca.ca
 
-Speaking Honestly, This part was very hard for me to understand, This work is not completly wine, some friends and classmates helped me to learn this code work. 
-*****************************************************************************
-*/
 #ifndef SDDS_DICTIONARY_H
 #define SDDS_DICTIONARY_H
 

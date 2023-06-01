@@ -1,16 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 8
-// File: Shape.h
 
-Student Name: Aanand Aman
-Student ID: 166125211
-Email: aaman8@myseneca.ca
-
-
-  I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #ifndef SDDS_SHAPE_H__
 #define SDDS_SHAPE_H__
 #include <iostream>

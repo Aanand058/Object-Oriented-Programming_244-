@@ -1,19 +1,5 @@
 
 
-/* ------------------------------------------------------
-Workshop 9 part 1
-
-Filename: Text.h
-Version 1
------------------------------------------------------------
-Name: Aanand Aman
-Student ID: 166125211
-EMail: aaman8@myseneca.ca
-
-I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-
------------------------------------------------------------*/
-
 #ifndef SDDS_TEXT_H_
 #define SDDS_TEXT_H_
 #include <iostream>

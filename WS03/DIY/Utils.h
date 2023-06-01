@@ -1,19 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 2: cString funtions to avoid including string header
-// file
-//
-// File	Utils.cpp
-// Version 1.0
-// Date	2022/09/17
-// Author	Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-// 
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
+
 #ifndef SDDS_UTILS_H_
 #define SDDS_UTILS_H_
 namespace sdds {

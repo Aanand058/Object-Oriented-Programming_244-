@@ -1,16 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 8
-// File: LblShape.h
 
-Student Name: Aanand Aman
-Student ID: 166125211
-Email: aaman8@myseneca.ca
-
-
-  I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #ifndef SDDS_LBLSHAPE_H__
 #define SDDS_LBLSHAPE_H__
 

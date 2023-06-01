@@ -1,38 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 4 p1: tester program
-//
-// File	Seat.cpp
-// Version 1.0
-// Date	2022/09/27
-// Author	Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name Aanand Aman           Date Oct 6. 2022           Reason
-//
-During this assignment I got help from two person. One from my professor about the memory leak problem and Another
-help from my friend RUbal Preet Singh email(nrubalpreet-singh@myseneca.ca). My friend help me in this function: 
-Seat::Seat(const char *passengerName, int row, char letter)
-	{
-		
-		
-			if (validate(row, letter)) 
-      {
-			  set(row, letter);
-				alAndCp(passengerName);  
-			}
-			else 
-      {
-				this->plane_row = 0;
-				this->plane_letter = '\0';
-			}
 
-	}
- Here I was not calling this alAndCp(passengerName); as it was not clear in the instruction so my friend told me to write this line and the code 
- statred reading the files correctly. Before that I was not getting the correct Output. 
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 
 #include <iostream>
 #include <fstream>

@@ -1,12 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 6 p2:  Classes with Resources
-//
-// File  Basket.h
- I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-// -----------------------------------------------------------
-// Name Aanand Aman           Date 27 Oct. 2022           Reason
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
+
 
 
 #ifndef SDDS_NUMBERS_H_

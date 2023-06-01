@@ -1,8 +1,3 @@
-// Workshop 7: Inheritance
-// Version: 1.0
-// Date: 2022-07-21
-// Author: Wail Mardini
-/////////////////////////////////////////////
 
 #include<iostream>
 #include "Dumper.h"

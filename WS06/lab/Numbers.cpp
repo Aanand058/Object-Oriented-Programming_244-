@@ -1,20 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop 6 p1: tester program
-//
-// File Numbers.cpp
 
-// Name Aanand Aman           Date Oct 25 2022           Reason
-
-In this code, I got help from my classmate Chow ka ho // email: kchow25@myseneca.ca regarding  operator + and -.
-He provided me these lines of code where i was unable to implent these functions propoerply. 
-const bool ASCENDING = true;
-    const bool DESCENDING = false;
-Numbers asc = Numbers(*this);
-        asc.sort(ASCENDING);
-         Numbers asc = Numbers(*this);
-        asc.sort(ASCENDING);
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstring>
